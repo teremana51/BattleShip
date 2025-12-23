@@ -37,3 +37,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Ignoring Server Logs
+clientlogs.log
+clientlogs.log.1
+serverlogs.log
